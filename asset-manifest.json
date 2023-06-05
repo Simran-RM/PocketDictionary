@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PocketDictionary/static/css/main.0c54dbcd.css",
+    "main.js": "/PocketDictionary/static/js/main.d1d40340.js",
+    "index.html": "/PocketDictionary/index.html",
+    "main.0c54dbcd.css.map": "/PocketDictionary/static/css/main.0c54dbcd.css.map",
+    "main.d1d40340.js.map": "/PocketDictionary/static/js/main.d1d40340.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c54dbcd.css",
+    "static/js/main.d1d40340.js"
+  ]
+}
