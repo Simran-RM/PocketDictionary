@@ -1,0 +1,50 @@
+.App{
+    background-color: #282c34;
+    color: aquamarine;
+    height: 100vh;
+    margin:0;
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    width: 100vw;  
+    overflow-x: hidden; 
+    position:fixed;
+    left: 0;
+    top: 0;
+  }
+
+  .form {
+    background-color:gray;
+    padding:10px;
+    
+
+  }
+
+  .input {
+    size: 100%;
+  }
+
+  .meaning {
+    color:lightseagreen;
+    font-family: 'Courier New', Courier, monospace;
+    padding:20px;
+    margin:20px;
+  }
+
+  .header {
+    width: 102vw;
+    position: fixed;        
+    background: #1d4144;
+    padding: 10px 0;
+    color: #fff;
+    top: 0;
+    height: 200px;
+    text-align:center;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    
+  }
