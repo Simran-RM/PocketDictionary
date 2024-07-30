@@ -1,6 +1,6 @@
 A handy dictionary app using ReactJS
 
-Please find the deployed project here: https://stackdevpro.github.io/PocketDictionary/ 
+Please find the deployed project here: https://simran-rm.github.io/PocketDictionary/ 
 
 # Getting Started with Create React App
 
